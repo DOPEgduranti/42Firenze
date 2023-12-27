@@ -1,0 +1,3 @@
+Moves done : 110 	 map/mapofficial.ber
+Moves done : 103 	 map/mapofficial.ber
+Moves done : 102 	 map/mapofficial.ber
