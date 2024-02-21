@@ -1,0 +1,100 @@
+366	1 is thinking
+
+394	2 is thinking
+
+398	1 has taken a fork
+
+398	2 has taken a fork
+
+406	2 has taken a fork
+
+406	2 is eating
+
+403	3 is thinking
+
+418	4 is thinking
+
+428	5 is thinking
+
+484	4 has taken a fork
+
+485	4 has taken a fork
+
+485	4 is eating
+
+200472	2 is sleeping
+
+402	1 has taken a fork
+
+200476	1 is eating
+
+200539	4 is sleeping
+
+200543	3 has taken a fork
+
+200544	3 has taken a fork
+
+200544	3 is eating
+
+400532	2 is thinking
+
+400564	1 is sleeping
+
+400588	5 has taken a fork
+
+400589	5 has taken a fork
+
+400589	5 is eating
+
+400599	3 is sleeping
+
+400622	4 is thinking
+
+400660	2 has taken a fork
+
+400660	2 has taken a fork
+
+400661	2 is eating
+
+600605	5 is sleeping
+
+600620	1 is thinking
+
+600655	3 is thinking
+
+600664	4 has taken a fork
+
+600665	4 has taken a fork
+
+600665	4 is eating
+
+600716	2 is sleeping
+
+600745	1 has taken a fork
+
+600746	1 has taken a fork
+
+600746	1 is eating
+
+800685	5 is thinking
+
+800720	4 is sleeping
+
+800771	3 has taken a fork
+
+800772	3 has taken a fork
+
+800772	3 is eating
+
+800772	2 is thinking
+
+800800	1 is sleeping
+
+800803	5 has taken a fork
+
+800804	5 has taken a fork
+
+800804	5 is eating
+
+800776	4 died
+

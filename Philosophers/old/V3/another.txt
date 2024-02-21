@@ -1,0 +1,50 @@
+1 1 is thinking
+84 2 is thinking
+86 3 is thinking
+86 4 is thinking
+87 5 is thinking
+187 1 has taken a fork
+193 1 has taken a fork
+193 1 is eating
+308 3 has taken a fork
+313 3 has taken a fork
+314 3 is eating
+252 1 is sleeping
+304 5 has taken a fork
+306 5 has taken a fork
+306 5 is eating
+372 3 is sleeping
+408 2 has taken a fork
+413 2 has taken a fork
+413 2 is eating
+335 1 is thinking
+362 5 is sleeping
+409 4 has taken a fork
+410 4 has taken a fork
+410 4 is eating
+460 3 is thinking
+468 2 is sleeping
+498 1 has taken a fork
+498 1 has taken a fork
+498 1 is eating
+421 5 is thinking
+468 4 is sleeping
+513 3 has taken a fork
+516 3 has taken a fork
+516 3 is eating
+553 1 is sleeping
+562 2 is thinking
+584 5 has taken a fork
+584 5 has taken a fork
+584 5 is eating
+557 4 is thinking
+571 3 is sleeping
+617 2 has taken a fork
+619 2 has taken a fork
+619 2 is eating
+639 1 is thinking
+639 5 is sleeping
+665 4 has taken a fork
+665 4 has taken a fork
+665 4 is eating
+666 every philosopher ate 2 times
